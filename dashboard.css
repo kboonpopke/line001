@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100%;
+}
+
+.row {
+   margin: auto;
+   display: flex;
+}
+.dashboard {
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: 20px;    
+}
+
+
+.border-left-warning {
+    border-left: 0.25rem solid #ff4a4a!important;
+}
+
+.border-left-success {
+    border-left: 0.25rem solid #1cc88a!important;
+}
+.border-left-info {
+    border-left: 0.25rem solid #e74a3b!important;
+}
+
+.border-left-primary1 {
+    border-left: 0.45rem solid #4e73df!important;
+}
+.border-left-primary2 {
+    border-left: 0.45rem solid #1cc88a!important;
+}
+.border-left-primary3 {
+    border-left: 0.45rem solid #ff0000!important;
+}
+.border-left-primary4 {
+    border-left: 0.45rem solid #ff3030!important;
+}
